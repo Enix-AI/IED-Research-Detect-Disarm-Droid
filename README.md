@@ -23,6 +23,23 @@ The "Droid" if you like to dub it as will be self-driven, and factor in the area
 
 ----
 
+Initial rig.
+
+The ideology around the initial rig, is cheap/nasty, consumer-grade, thus everything that goes into a proof-of-concept, in this case to provide evidence that the following can be achieved.
+
+1) The Rig could be built initially for less than $1000.
+2) The Rig would lead to fine-tuning which could be taken into account if production were to follow for laser-cutting/3D printing.
+3) The Rig could be controlled by a AI (Self-Driving) based on environmental events and constraints, whilst carrying out its target work.
+4) The AI could seamsless operate fully for its intended purpose (identifying threats, quashing them) from consumer/commercial grade chips/hardware, alongside the analysing AI's being on-board (opposed to remote control - human control).
+5) The AI could do more than what a human could achieve within its MAS/AI framework, from the perspective of collating information, deriving information, thus actioning responses.
+6) The AI could work much faster and would be prone to less risk opposed to human nerves or error.
+
+I've uploaded some images of the initial (cable tied) opposed to bolted due to still being put together, note this is the first phase of hardware going on and being connected out of mid-fifties.
+
+![alt text](https://github.com/Enix-AI/IED-Research-Detect-Disarm-Droid/blob/master/79649142_566492417416226_8502839028968587264_o.jpg)
+
+You will note also additional sensors.
+
 More information, specs, reports, etc will be added in due course.
 
 

@@ -38,6 +38,13 @@ I've uploaded some images of the initial (cable tied) opposed to bolted due to s
 
 ![alt text](https://github.com/Enix-AI/IED-Research-Detect-Disarm-Droid/blob/master/79649142_566492417416226_8502839028968587264_o.jpg)
 
+![alt text](https://github.com/Enix-AI/IED-Research-Detect-Disarm-Droid/blob/master/79431319_566492297416238_605176323823894528_o.jpg)
+
+![alt text](https://github.com/Enix-AI/IED-Research-Detect-Disarm-Droid/blob/master/79852375_566510584081076_7435721633676918784_o.jpg)
+
+![alt text](https://github.com/Enix-AI/IED-Research-Detect-Disarm-Droid/blob/master/80449889_566492207416247_7916549969857740800_o.jpg)
+
+
 You will note also additional sensors.
 
 More information, specs, reports, etc will be added in due course.

@@ -1,4 +1,4 @@
-# IED-Research-Detect-Disarm-Robot-
+# IED-Research-Detect-Disarm-AI-Droid
 A project exploring the possibilities in the creation of a AI driven robot for detecting IED's in the field, and potential AI - Human driven disarmament. 
 
 # Project Reason, Intentions, Scope.
